@@ -161,7 +161,6 @@ $$E = mc^2$$
 > 但在 GitHub Pages / Typora / Obsidian 中可显示。
 
 ---
-
-**✅ 到此为止，你已掌握 Markdown 的核心语法！**
+``` 被包裹的内容和python写注释一样```
 
 
